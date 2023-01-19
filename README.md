@@ -1,3 +1,4 @@
+# This project is dead, I left this for historical reasons
 # Libretabs
 A web broswer that is built on firefox and has sidebar tabs!
 Not a brosewer, libretabs is a script that configures Libre Wolf. 
